@@ -1,15 +1,21 @@
 nav { 
     margin: 20px; 
+    text-align: center;
     padding: 10px;
     border: 2px solid black;
 }
 nav a { 
-    text-align: center;
     margin: 30px;
     font-size: 20px;
     text-decoration: none;
     color: rgb(0, 0, 0);
 }
 p {
-    font-size: 20px;
+    font-size: 25px;
+}
+h1 {
+    text-align: left;
+}
+img {
+    text-align: left;
 }
